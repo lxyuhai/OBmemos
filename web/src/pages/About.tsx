@@ -16,19 +16,19 @@ const About = () => {
           </a>
           <p className="text-base">{t("about.description")}</p>
           <div className="mt-1 flex flex-row items-center flex-wrap">
-            <Link underline="always" href="https://www.github.com/usememos/memos" target="_blank">
+            <Link underline="always" href="https://github.com/lxyuhai/OBmemos/" target="_blank">
               {t("about.github-repository")}
             </Link>
             <DotIcon className="w-4 h-auto opacity-60" />
-            <Link underline="always" href="https://www.usememos.com/" target="_blank">
+            <Link underline="always" href="hhttps://github.com/lxyuhai/OBmemos/" target="_blank">
               {t("about.official-website")}
             </Link>
             <DotIcon className="w-4 h-auto opacity-60" />
-            <Link underline="always" href="https://www.usememos.com/blog" target="_blank">
+            <Link underline="always" href="https://github.com/lxyuhai/OBmemos/" target="_blank">
               {t("about.blogs")}
             </Link>
             <DotIcon className="w-4 h-auto opacity-60" />
-            <Link underline="always" href="https://www.usememos.com/docs" target="_blank">
+            <Link underline="always" href="https://github.com/lxyuhai/OBmemos/" target="_blank">
               {t("about.documents")}
             </Link>
           </div>
